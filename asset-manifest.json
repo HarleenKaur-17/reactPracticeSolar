@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactPracticeSolar/static/css/main.bfa4ae78.css",
+    "main.js": "/reactPracticeSolar/static/js/main.addddb82.js",
+    "index.html": "/reactPracticeSolar/index.html",
+    "main.bfa4ae78.css.map": "/reactPracticeSolar/static/css/main.bfa4ae78.css.map",
+    "main.addddb82.js.map": "/reactPracticeSolar/static/js/main.addddb82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa4ae78.css",
+    "static/js/main.addddb82.js"
+  ]
+}
