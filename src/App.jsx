@@ -1,4 +1,4 @@
-import { Canvas } from "@react-three/fiber";
+import { Canvas } from "@react-three/fiber"; // set up 3D scene
 import { OrbitControls, Stars } from "@react-three/drei";
 import { useState } from "react";
 import Planet from "./components/Planet";
